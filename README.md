@@ -36,5 +36,5 @@ To run the project locally, follow the steps below:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/random-image-api.git
+git clone https://github.com/your-username/random-image-api.git](https://github.com/ChiragKapil03/RamdomImageApi.git
 cd random-image-api
